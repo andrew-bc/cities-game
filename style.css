@@ -141,7 +141,7 @@
         height: 100%;
     }
     
-    .button {
+    .button:hover {
         background-position: right center;
         color: #fff;
         text-decoration: none;
